@@ -1,6 +1,8 @@
 # Test
 Repositório teste 
-olá, me Chamo Caio 
-Estou iniciando em programação 
-Ainda não possuo projeto 
-Estou aprendendo HTML,CSS,JS
+<div>
+olá, me Chamo <strong>Caio</strong><br>
+Estou iniciando em programação<br>
+Ainda não possuo nenhum projeto <br>
+Mas estou aprendendo <em>HTML,CSS,JS</em>
+</div>
